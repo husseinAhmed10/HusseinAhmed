@@ -60,8 +60,8 @@ I am Communication and Computer Engineering Fresh Graduate and my passion is Sof
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg" title="mySQL" alt="mySQL" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
 
-   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="vsCode" alt="vsCode" width="90" height="50"/>&nbsp;
-    <img src="https://www.eclipse.org/org/artwork/images/eclipse_ide_logo.png"  title="Eclipse" alt="Eclipse" width="90" height="50"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="vsCode" alt="vsCode" width="40" height="40"/>&nbsp;
+    <img src="https://avatars.githubusercontent.com/u/95248176?s=200&v=4"  title="Eclipse" alt="Eclipse" width="40" height="40"/>&nbsp;
 
 
 </div>
