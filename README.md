@@ -49,24 +49,39 @@ I am Communication and Computer Engineering Fresh Graduate and my passion is Sof
 
 ### <ins> <b>Technologies I work with <b>:</ins>
 
-
+### Programming
 
 <div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" title="C++" alt="Cplusplus" width="40" height="40"/>&nbsp;
-   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/embeddedc/embeddedc-original-wordmark.svg"  title="Embedded C" alt="Embedded C" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg" title="mySQL" alt="mySQL" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
-
-   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="vsCode" alt="vsCode" width="40" height="40"/>&nbsp;
-    <img src="https://avatars.githubusercontent.com/u/95248176?s=200&v=4"  title="Eclipse" alt="Eclipse" width="40" height="40"/>&nbsp;
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" title="C++" alt="Cplusplus" width="40" height="40"/>&nbsp;
+  
 
 </div>
 
-### Programming
+### Embedded Systems
+
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/embeddedc/embeddedc-original-wordmark.svg"  title="Embedded C" alt="Embedded C" width="40" height="40"/>&nbsp;
+</div>
+
+### Tools
+
+<div>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="vsCode" alt="vsCode" width="40" height="40"/>&nbsp;
+    <img src="https://avatars.githubusercontent.com/u/95248176?s=200&v=4"  title="Eclipse" alt="Eclipse" width="40" height="40"/>&nbsp;
+</div>
+
+
+
+### Web Developer (FrontEnd / BackEnd / FullStack)
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/react/react-original-wordmark.svg"  title="react" alt="Eclipse" width="90" height="50"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg" title="mySQL" alt="mySQL" width="40" height="40"/>&nbsp;
+
+
+
+
 
 ![](https://img.shields.io/badge/Programming-C-informational?style=flat&logo=c&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Programming-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=blue)
@@ -75,9 +90,13 @@ I am Communication and Computer Engineering Fresh Graduate and my passion is Sof
 
 ### Scripting
 
-![](https://img.shields.io/badge/Scripting-Python-informational?style=flat&logo=Python&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Scripting-MATLAB-informational?style=flat&logo=MATLAB&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Scripting-BASH-informational?style=flat&logo=bash&logoColor=white&color=blue)
+<div>
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" title="BASH" alt="BASH" width="40" height="40"/>&nbsp;
+</div>
+
+
 
 
 ### HDL
@@ -85,6 +104,4 @@ I am Communication and Computer Engineering Fresh Graduate and my passion is Sof
 ![](https://img.shields.io/badge/Hardware-Verilog-informational?style=flat&logo=verilog&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Hardware-VHDL-informational?style=flat&logo=verilog&logoColor=white&color=blue)
 
-### FrontEnd
-<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/react/react-original-wordmark.svg"  title="react" alt="Eclipse" width="90" height="50"/>&nbsp;
 
