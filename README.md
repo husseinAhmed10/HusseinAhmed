@@ -55,29 +55,26 @@ I am Communication and Computer Engineering Fresh Graduate and my passion is Sof
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" title="C++" alt="Cplusplus" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="Csharp" width="40" height="40"/>&nbsp;
- 
-
-
-![](https://img.shields.io/badge/Programming-X86_Assembly-informational?style=flat&logo=asm&logoColor=white&color=blue)
- 
-
+<img src="https://assets.exercism.io/tracks/x86-64-assembly-hex-turquoise.png" title="Assembly" alt="Assembly" width="40" height="40"/>&nbsp;  
+<img src="https://thumbs.dreamstime.com/z/object-oriented-programming-icon-trendy-object-oriented-program-object-oriented-programming-icon-trendy-object-oriented-131195706.jpg?w=768" title="OOP" alt="OOP" width="40" height="40"/>&nbsp;  
 </div>
 
 ### Embedded Systems
 
 <div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/embeddedc/embeddedc-original-wordmark.svg"  title="Embedded C" alt="Embedded C" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/embeddedc/embeddedc-original-wordmark.svg"  title="Embedded C" alt="Embedded C" width="40" height="40"/>&nbsp;
+<img src="https://digitalgateamg.com/wp-content/uploads/2021/12/4.RTOS_BSP_digitalgate.png"  title="RTOS" alt="RTOS" width="40" height="40"/>&nbsp;
+<img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/assembly_avr_icon_132579.png"  title="AVR" alt="AVR" width="40" height="40"/>&nbsp;
+<img src="https://w7.pngwing.com/pngs/226/137/png-transparent-arm-cortex-a35-arm-architecture-arm-cortex-m-arm-cortex-a75-processor-miscellaneous-electronics-logo-thumbnail.png"  title="ARM" alt="ARM" width="40" height="40"/>&nbsp;
 </div>
 
 ### Tools
 
 <div>
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="vsCode" alt="vsCode" width="40" height="40"/>&nbsp;
+   <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
     <img src="https://avatars.githubusercontent.com/u/95248176?s=200&v=4"  title="Eclipse" alt="Eclipse" width="40" height="40"/>&nbsp;
 </div>
-
-
 
 ### Web Developer (FrontEnd / BackEnd / FullStack)
 
@@ -96,11 +93,15 @@ I am Communication and Computer Engineering Fresh Graduate and my passion is Sof
 </div>
 
 
-
-
 ### HDL
 
 ![](https://img.shields.io/badge/Hardware-Verilog-informational?style=flat&logo=verilog&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Hardware-VHDL-informational?style=flat&logo=verilog&logoColor=white&color=blue)
+
+### Operating Systems
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"  title="Linux" alt="Linux" width="90" height="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
+
 
 
