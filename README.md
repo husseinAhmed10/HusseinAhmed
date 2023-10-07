@@ -54,7 +54,12 @@ I am Communication and Computer Engineering Fresh Graduate and my passion is Sof
 <div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" title="C++" alt="Cplusplus" width="40" height="40"/>&nbsp;
-  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="Csharp" width="40" height="40"/>&nbsp;
+ 
+
+
+![](https://img.shields.io/badge/Programming-X86_Assembly-informational?style=flat&logo=asm&logoColor=white&color=blue)
+ 
 
 </div>
 
@@ -78,15 +83,9 @@ I am Communication and Computer Engineering Fresh Graduate and my passion is Sof
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/react/react-original-wordmark.svg"  title="react" alt="Eclipse" width="90" height="50"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg" title="mySQL" alt="mySQL" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
 
 
-
-
-
-![](https://img.shields.io/badge/Programming-C-informational?style=flat&logo=c&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Programming-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Programming-C%23-informational?style=flat&logo=csharp&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Programming-X86_Assembly-informational?style=flat&logo=asm&logoColor=white&color=blue)
 
 ### Scripting
 
