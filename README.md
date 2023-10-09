@@ -42,7 +42,7 @@ I am Communication and Computer Engineering Fresh Graduate and my passion is Sof
 
 ### <ins> <b> My Contacts <b>:</ins><br/>
 
-📫 - You can reach me through this mail: hussein.ahmed2110@gmail.com
+📫 - You can reach me through this mail: hussein.ibrahim99@eng-st.cu.edu.eg
 
 <br>
 
